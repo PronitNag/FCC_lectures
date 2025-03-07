@@ -1,6 +1,6 @@
 # JavaScript Concepts
 
-## What Is the `var` Keyword, and Why Is It No Longer Suggested to Use It?
+## What Is the `var` Keyword, and Why Is It No Longer Suggested to Use It? 
 
 The `var` keyword was traditionally used to declare variables in JavaScript. However, it has been largely replaced by `let` and `const` due to several issues:
 
